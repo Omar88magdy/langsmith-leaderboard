@@ -1,0 +1,13 @@
+service_display_name,name,quantity,region,service_id,sku,"total_price, USD",notes
+Instances (Compute Engine),G2 Instance Core running in Americas,17520.0,us-central1,6F81-5844-456A,D18E-3563-415F,437.79349,
+Instances (Compute Engine),G2 Instance Ram running in Americas,70080.0,us-central1,6F81-5844-456A,F0A4-E3D3-33BD,205.1556,
+Instances (Compute Engine),Nvidia L4 GPU running in Americas,1460.0,us-central1,6F81-5844-456A,A88A-5A60-E821,817.65875,
+Instances (Compute Engine),Balanced PD Capacity,10.0,us-central1,6F81-5844-456A,6AE1-525F-8B80,1,
+,,,,,,,
+,,,,,Total Price:,1461.60784,
+,,,,,,,
+"Prices are in US dollars, effective date is 2025-02-12T11:04:17.123Z",,,,,,,
+,,,,,,,
+The estimated fees provided by Google Cloud Pricing Calculator are for discussion purposes only and are not binding on either you or Google. Your actual fees may be higher or lower than the estimate.,,,,,,,
+,,,,,,,
+Url to the estimate:,https://cloud.google.com/calculator?dl=CjhDaVEwWldKa05UUXlZUzFtTURnM0xUUmhNbUl0WW1ReE55MWhOR1EzTm1WaU9HVmlOR1lRQVE9PRokMUVCRTUyRjYtM0M1Qi00Q0FFLUEwMjYtN0M3NTQ4QkU0NjI0,,,,,,
